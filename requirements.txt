@@ -1,0 +1,10 @@
+xarray
+geopandas
+rioxarray
+matplotlib
+numpy
+pandas
+seaborn
+scipy
+pymannkendall
+netcdf4
