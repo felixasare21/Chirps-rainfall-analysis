@@ -67,4 +67,5 @@ CHIRPS was developed by the Climate Hazards Center at the University of Californ
 
 ## Author
 
-Kwadwo Okoto
+Felix Asiedu Asare
+
